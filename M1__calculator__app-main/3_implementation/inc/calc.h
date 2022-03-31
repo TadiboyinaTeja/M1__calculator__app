@@ -1,10 +1,10 @@
 
 /**
  * @file cal.h
- * @author pawan(pawanraj3706@.com)
+ * @author Tadiboyina Teja(tteja298@gmail.com)
  * @brief scientific calculator
  * @version 0.1
- * @date 2022-03-04
+ * @date 2022-03-31
  * 
  * @copyright Copyright (c) 2022
  * 
